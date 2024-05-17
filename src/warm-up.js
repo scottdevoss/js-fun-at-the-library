@@ -10,19 +10,23 @@
 // Initialize two new variables, "title", and "pages", and assign values to them with
 // a book's title and page count.
 
-// var title = "Harry Potter";
-// var ...
+var title = "Harry Potter";
+var pages = 567
 
 
 
 // Reassign (not initialize) your "pages" variable from above. An editor came around and
 // condensed the book, use a built in math operator to make the page count a quarter
 // of what it currently is 
+pages /= 4
+
+//console.log(pages);
+
 
 
 
 // Initialize a new variable "movie", but leave it undefined
-
+var movie;
 
 
 // Create a variable named "sequel", and assign it to a be a sequel of your
